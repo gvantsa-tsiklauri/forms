@@ -1,0 +1,91 @@
+* {
+    box-sizing: border-box;
+}
+.main-div{
+    width: 1440px;
+    height: 1024px;
+    background-color: white;
+    padding-top: 33px;
+    padding-left: 59px;
+}
+.title-div{
+    max-width: 170px;
+}
+.title {
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 29.05px;
+}
+.main-box{
+    width: 600px;
+    height: 730px;
+    margin-top: 118px;
+    margin-left: 361px;
+    background-color: white;
+    border: 1px solid #F1F1F1;
+    border-radius: 20px;
+    padding-top: 40px;
+    padding-left: 44px;
+
+}
+.title-form{
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 18.15px;
+}
+.title-input{
+    width: 511px;
+    height: 40px;
+    border: 1px solid #F6F6F6;
+    border-radius: 10px;
+    padding-left: 16px;
+}
+::placeholder{
+    color: #DADADA;
+}
+.description-textarea{
+    width: 511px;
+    height: 199px;
+    border: 1px solid #F6F6F6;
+    border-radius: 10px;
+    padding-left: 16px;
+    padding-top: 13px;
+}
+.category-input{
+    width: 511px;
+    height: 40px;
+    border: 1px solid #F6F6F6;
+    border-radius: 10px;
+    padding-left: 16px;
+}
+.brand-input{
+    width: 511px;
+    height: 40px;
+    border: 1px solid #F6F6F6;
+    border-radius: 10px;
+    padding-left: 16px;
+}
+.price-input{
+    width: 511px;
+    height: 40px;
+    border: 1px solid #F6F6F6;
+    border-radius: 10px;
+    padding-left: 16px;
+}
+.clear-button{
+    width: 218px;
+    height: 47px;
+    background-color: #FEA1A1;
+    border: none;
+    margin-top: 14px;
+    border-radius: 10px;
+}
+.submit-button{
+    width: 218px;
+    height: 47px;
+    background-color: #F6DE00;
+    border: none;
+    margin-top: 14px;
+    border-radius: 10px;
+    margin-left: 75px;
+}
